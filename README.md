@@ -1,7 +1,7 @@
-Projet : Analyse Exploratoire des Données Économiques Mondiales
+# Projet : Analyse Exploratoire des Données Économiques Mondiales
 
 
-Objectif : Analyser les indicateurs économiques mondiaux pour identifier des tendances et des corrélations.
+## Objectif : Analyser les indicateurs économiques mondiaux pour identifier des tendances et des corrélations.
 
 
 Ce projet analyse les données économiques mondiales pour comprendre les relations entre différents indicateurs tels que le PIB, la dette publique, et les dépenses en éducation. L'objectif est de trouver des corrélations et de visualiser les différences régionales.
